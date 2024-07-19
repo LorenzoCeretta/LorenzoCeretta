@@ -1,4 +1,4 @@
-# 🎬 Lorenzo Prazeres Ceretta
+# 💻 Lorenzo Prazeres Ceretta
 
 - 🧑🏻‍💻 Working as a Software Engineer Intern at [**NEO Empresarial**](https://neo.certi.org.br)
 - 📚 Studying Mechanical Engineering at [**Federal University of Santa Catarina**](https://www.ufsc.br)
