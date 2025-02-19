@@ -14,7 +14,7 @@
 
 ---
 
-## 🧰 Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="JavaScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="margin:10px; border-radius:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
