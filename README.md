@@ -8,6 +8,9 @@
 <a href="https://www.linkedin.com/in/lorenzo-ceretta-400a20285/">
   <img align="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
+<a href="https://x.com/lorenzopceretta">
+  <img align="left" alt="Twitter" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/5/52/X_logo_2023.svg" />
+</a>
 
 <br />
 <br />
