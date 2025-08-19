@@ -9,7 +9,7 @@
   <img align="left" alt="LinkedIn" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="https://x.com/lorenzopceretta">
-  <img align="left" alt="Twitter" width="30px" style="margin:10px; border-radius:5px" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" />
+  <img align="left" alt="Twitter" width="30px" style="margin:10px; border-radius:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg?20230724061250" />
 </a>
 
 <br />
