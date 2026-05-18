@@ -2,9 +2,7 @@
 - aka lpe ☯️🏔️
 - 💻 Software Engineer Intern at [NEO Empresarial](https://neo.certi.org.br)
 - 📚 Control and Automation Engineering student at the [Federal University of Santa Catarina](https://www.ufsc.br)
-
-<br />
-
+  
 ---
 
 ## Languages and Tools
